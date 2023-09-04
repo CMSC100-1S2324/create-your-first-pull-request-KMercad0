@@ -4,3 +4,8 @@ Expectations for CMSC 100:
 
 > Since this is my 2nd retake I vaguely remember everything on the lab but self-expectations for myself is to finally grasp most of the concept in javascript, particularly in reactJS and the backend/database components of it.
 > Also should do better in lecture exams lmao xd
+
+
+Comments(Tanig)
+> I hope that you understand and fully grasp all of the topics you have struggled with before
+> Goodluck on the lecture exams!
